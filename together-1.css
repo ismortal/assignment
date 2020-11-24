@@ -20,3 +20,15 @@ h2{
 	color: #666666;
 	background-color: #00B7EA;
 }
+
+details{
+	font-style: italic;
+}
+
+summary{
+	font-style: normal;
+}
+
+footer{
+	background-color: #666666;
+}
